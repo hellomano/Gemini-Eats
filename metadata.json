@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Eats",
+  "description": "A location-based food discovery app that uses AI to find top-trending dishes and restaurants nearby.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
